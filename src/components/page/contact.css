@@ -1,0 +1,39 @@
+.contact{
+    background-color: rgb(222, 247, 247);
+}
+.contactpage{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contactnumber{
+    margin-top: 20px;
+    padding: 20px;
+}
+.callus{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.contactphonenumber{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.conntainer{
+    margin-top: 40px;
+}
+.contactyou{
+    padding: 20px; 
+    font-family: Arial, Helvetica, sans-serif
+}
+.add-contact-information{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    max-width: 500px;
+    margin: 10px auto;
+}
+.input-error,
+select.input-error
+{
+border-color: crimson;
+}
